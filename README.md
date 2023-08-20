@@ -1,5 +1,3 @@
-# ncbLibs
-
 # Developer
 Naif Can Başçı
 
